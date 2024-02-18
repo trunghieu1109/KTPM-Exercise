@@ -56,6 +56,8 @@ Kill process
 
 Sửa file `~/.vnc/xstartup` và thêm  `startxfce4` vào cuối file. Việc này cho phép run xfce4 mỗi khi run server.
 
+![add_bottom](figures/add_to_bottom.png)
+
 Run VNC server.
 
 ![run-again](figures/run_vnc_again.png)
