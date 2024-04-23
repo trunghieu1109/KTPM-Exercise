@@ -1,3 +1,6 @@
+# Họ tên: Nguyễn Trung Hiếu
+# Mã sinh viên: 21020017
+
 # Demo sử dụng VNC
 Các bước thực hiện như sau:
 

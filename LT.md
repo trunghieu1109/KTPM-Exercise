@@ -1,3 +1,6 @@
+# Họ tên: Nguyễn Trung Hiếu
+# Mã sinh viên: 21020017
+
 # Bài tập lý thuyết
 
 ## Tìm hiểu Docker và docker-composer
